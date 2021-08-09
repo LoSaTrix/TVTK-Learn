@@ -1,4 +1,3 @@
-# TVTK-Learn
 # TVTK库 学习
 代码文件见 **桌面/Python/tvtk** 文件夹
 
