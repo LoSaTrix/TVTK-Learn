@@ -72,7 +72,7 @@ TraitsUI|5.1.0      |7.2.1
    Renderer|渲染的场景。它包括多个需要渲染的Actor。
    RenderWindow|渲染用的图形窗口，它包括一个或者多个Render。
    RenderWindowInteractor|给图形窗口提供一些用户交互功能，例如平移、旋转、放大缩小。这些交互式操作并不改变Actor或者图形数据的属性，只是调整场景中照相机（Camera）的一些设置。
-![pipeline](../fig/pipeline.png)
+![pipeline](./fig/pipeline.png)
 
 
 ## 函数记录
